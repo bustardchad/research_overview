@@ -6,7 +6,7 @@
 
 - LMC_Part2.ipynb -- follow-up to part I. This notebook plots values of "ram pressure" across the LMC disk and tabulates them at specific points where there are observational sightlines (this part, followed by an analysis of correlations between local ram pressure and observed ion abundances forms the basis for a funded Hubble Space Telescope (HST) grant (PI: Yong Zheng, Co-I: Chad Bustard)
 
-#### Supplemental material
+## Supplemental material
 - In the `Extras` folder, there are Fortran (.F90) files that create the initial conditions and boundary conditions for the simulations. 
 - There is also a `CoolingTables` folder with a `makeCoolingFile.py` Python script I created to generate a cooling curve from the Haardt and Madau cooling tables. 
 - The `Proposal` folder contains the awarded computing proposal (PI: Chad Bustard) for this project, which gives more overview of the motivation for this work, as well as scaling and timing tests for our modified version of the FLASH code.
