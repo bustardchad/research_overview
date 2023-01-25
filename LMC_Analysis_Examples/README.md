@@ -1,5 +1,5 @@
 # LMC Analysis Examples
-## This folder contains example analyses of simulation data from Bustard et al. 2020, which modeled the Large Magellanic Cloud, a dwarf satellite galaxy of the Milky Way, with a modified version of the FLASH magnetohydrodynamics code.
+#### This folder contains example analyses of simulation data from Bustard et al. 2020, which modeled the Large Magellanic Cloud, a dwarf satellite galaxy of the Milky Way, with a modified version of the FLASH magnetohydrodynamics code.
 
 ## Main material
 - LMC_Part1.ipynb -- a Jupyter notebook with background on the simulations and working examples of data analysis, specifically the creation of mock observables from simulation output. The mock observables we generate include Faraday rotation measure (which is a probe of magnetic field strength), gamma-ray emission (which probes cosmic ray content), H-alpha emission, and ion column densities; products from this work have been published in 3 papers and have been included in successful computing proposals. We'll additionally make a few mock absorption line spectra comparable to that from the COS-Halos spectrograph aboard the Hubble Space Telescope; similar but more extensive analysis has been the basis for multiple undergraduate projects I've advised. 
