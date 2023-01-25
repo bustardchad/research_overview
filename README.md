@@ -1,6 +1,6 @@
 # Research Overview
 
-This repo contains some example Python and C++ scripts I've created over the years in support of my galaxy evolution research. Each folder corresponds to a different project and contains, at minimum, a README file and a Jupyter notebook that describes the project in layman's terms and performs some analysis on a data product. 
+This repo contains some example Python, C++, and Fortran scripts I've created over the years in support of my galaxy evolution research. Each folder corresponds to a different project and contains, at minimum, a README file and a Jupyter notebook that describes the project in layman's terms and performs some analysis on a data product. 
 
 ### Directory organization:
 
