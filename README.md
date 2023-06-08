@@ -1,4 +1,4 @@
-# Research Overview
+# Data Analysis Tools for Galaxy Evolution Research: Tutorials and Example Scripts
 
 This repo contains some example Python, C++, and Fortran scripts I've created over the years in support of my galaxy evolution research. Each folder corresponds to a different project and contains, at minimum, a README file and a Jupyter notebook that describes the project in layman's terms and performs some analysis on a data product. The intent is for these to be used as tutorials and references for those starting in the field of computational astrophysics. 
 
