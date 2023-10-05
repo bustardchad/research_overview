@@ -1,6 +1,6 @@
-# Research Overview
+# Data Analysis Tools for Galaxy Evolution Research: Tutorials and Example Scripts
 
-This repo contains some example Python, C++, and Fortran scripts I've created over the years in support of my galaxy evolution research. Each folder corresponds to a different project and contains, at minimum, a README file and a Jupyter notebook that describes the project in layman's terms and performs some analysis on a data product. 
+This repo contains some example Python, C++, and Fortran scripts I've created over the years in support of my galaxy evolution research. Each folder corresponds to a different project and contains, at minimum, a README file and a Jupyter notebook that describes the project and performs some analysis on a data product. The intent is for these to be used as tutorials and references for those starting in the field of computational astrophysics. 
 
 ### Directory organization:
 
@@ -10,11 +10,13 @@ This repo contains some example Python, C++, and Fortran scripts I've created ov
   - See the `FLASH_Files` folder for a few Fortran files (initial condition and boundary condition scripts I created/modified), part of the FLASH MHD code <br>
   - See the `Proposal` folder for a copy of the XSEDE computing proposal that was funded (PI: Chad Bustard) and led to this work <br>
   
-  #### CR_Turb_Examples (under construction)
-  Project where I simulated how normal thermal gas, magnetic fields, and relativistic cosmic rays interact in idealized, turbulent environments. Analylsis of the resulting simulation suite has so far resulted in two publications (Bustard and Oh 2022, 2023) <br>
-  - See CRTurb.ipynb for an instructive notebook <br>
   
-  #### Streams_Clouds (under construction)
+  ### Coming next -- under construction
+  #### CR_Turb_Examples
+  Project where I simulated how normal thermal gas, magnetic fields, and relativistic cosmic rays interact in idealized, turbulent environments. Analylsis of the resulting simulation suite has so far resulted in two publications (Bustard and Oh 2022, 2023) <br>
+
+  
+  #### Streams_Clouds
   Set of Python scripts (no instructive Jupyter notebook yet) used to analyze simulations of cold gas structures subjected to a hot, destructive wind. More to come...
   
   
